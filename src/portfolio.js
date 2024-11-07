@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Software Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
+    "https://drive.google.com/file/d/1XoNd-balHusVg0cSv8PrNuYHJO7s682r/view?usp=sharing",
   mail: "subaanand1070@gmail.com",
 };
 
@@ -387,7 +387,7 @@ const projects = {
     },
     {
       name: "Portfolio",
-      url: " ",
+      url: "https://github.com/subaanand-git/Portfolio.git",
       description: "My personal Portfolio website made with ReactJS,HTML ,CSS, Javascript and Bootstrap.",
       languages: [
         {
