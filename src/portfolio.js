@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Software Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1XoNd-balHusVg0cSv8PrNuYHJO7s682r/view?usp=sharing",
+    "https://drive.google.com/file/d/1LusrokigyQqbWhilenmqLSaMulDrQ7eQ/view?usp=sharing",
   mail: "subaanand1070@gmail.com",
 };
 
@@ -264,11 +264,11 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Full Stack Developer",
+          title: "Full Stack Developer Intern",
           company: "Entri Elevate",
           company_url: "https://entri.app/",
           logo_path: "buld.jpg",
-          duration: "Mar 2024 - Ongoing",
+          duration: "February 2024 - November 2024",
           location: "Bangalore",
           description:
             "Develop a website using MERN STACK Technologies.",
