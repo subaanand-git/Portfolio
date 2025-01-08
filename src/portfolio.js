@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Software Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1daEmOs66EwIMrMDeTIyqLiTQPsjqBBnC/view?usp=sharing",
+    "https://drive.google.com/file/d/1PZ8goLPwRZPK9QWY0vN0XqYEkUr5qEwz/view?usp=sharing",
   mail: "subaanand1070@gmail.com",
 };
 
